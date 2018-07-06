@@ -6,7 +6,7 @@
 > Hilde Austlid, ITS Trafikksikkerhet og Miljø
 
 ## 1030-1200 Nasjonal Vegdatabank
-> Terje Brasetvik, NVDB & Geodataseksjonen
+> Terje Brasethvik, NVDB & Geodataseksjonen
 ### 10.30 NVDB API V3
 ### POC rådataplattform
 
