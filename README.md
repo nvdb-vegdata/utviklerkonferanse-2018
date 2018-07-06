@@ -1,4 +1,4 @@
-# Åpne veg- og transportdata 2018
+# Utviklerkonferanse for Åpne veg- og transport-data 2018
 
 ## 1000 Velkommen
 
@@ -17,6 +17,6 @@
 
 ### Intro til GraphQL
 ###	Våre data 
-### va vi deler nå og i framtida
+### Hva vi deler nå og i framtida
 
 ## 1500 Vel hjem
