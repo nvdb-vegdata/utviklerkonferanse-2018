@@ -7,8 +7,8 @@
 
 ## 1030-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
-### 10.30 NVDB API V3
-### POC rådataplattform
+### 1030-1130 NVDB API V3
+### 1130-1200 POC rådataplattform
 
 # 1200-1300 Lunsj
 
