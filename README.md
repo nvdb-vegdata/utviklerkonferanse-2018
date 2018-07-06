@@ -1,5 +1,11 @@
 # Utviklerkonferanse for Åpne veg- og transport-data 2018
 
+> Arrangeres i sammenheng med (Statens Vegvesens teknologidager)[https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene]. 
+
+* Tid: Fredag 2. November
+* Sted: Clarion Hotel & Congress, Brattøra, Trondheim
+
+
 ## 1000 Velkommen
 
 ## 1000-1030 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
