@@ -9,7 +9,7 @@
 ## 1000 Velkommen
 
 ## 1000-1030 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
-> Hilde Austlid, ITS Trafikksikkerhet og Miljø
+> Hilde Austlid, IKT Forvaltning og videreutvikling
 
 ## 1030-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
