@@ -7,6 +7,7 @@
 
 
 ## 1000 Velkommen
+> Marit Collin, Administrerende direktør, Kantega
 
 ## 1000-1030 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
 > Hilde Austlid, IKT Forvaltning og videreutvikling
@@ -14,6 +15,7 @@
 ## 1030-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
+### Annonseringer
 ### Nytt nasjonalt vegreferansesystem
 ### 1030-1130 NVDB API V3 Les og Skriv
 ### 1130-1200 POC rådataplattform
