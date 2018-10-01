@@ -6,19 +6,19 @@
 * Sted: Clarion Hotel & Congress, Brattøra, Trondheim
 
 
-## 1000 Velkommen
+## 1000-1015 Velkommen
 > Marit Collin, Administrerende direktør, Kantega
 
-## 1000-1030 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
+## 1015-1045 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
 > Hilde Austlid, IKT Forvaltning og videreutvikling
 
-## 1030-1200 Nasjonal Vegdatabank
+## 1045-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
 ### Annonseringer
 ### Nytt nasjonalt vegreferansesystem
-### 1030-1130 NVDB API V3 Les og Skriv
-### 1130-1200 POC rådataplattform
+### NVDB API V3 Les og Skriv
+### PoC plattform samvirkende ITS
 
 # 1200-1300 Lunsj
 
