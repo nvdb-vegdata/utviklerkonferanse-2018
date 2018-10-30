@@ -16,7 +16,7 @@
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
 ### Annonseringer (15 min)
-* Ny Vegkart
+* [Ny Vegkart](https://vegkart-test.kantega.no)
 * "Nytt" koordinatsystem i NVDB
 * Nytt nasjonalt vegreferansesystem
 
