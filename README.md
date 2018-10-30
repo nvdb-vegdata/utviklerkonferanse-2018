@@ -17,12 +17,14 @@
 
 ### Annonseringer (15 min)
 * [Ny Vegkart](https://vegkart-test.kantega.no)
+* API V1 - Utgår
+* Atlas - Ny driftsplattform -> Nye URL'er
 * "Nytt" koordinatsystem i NVDB
 * Nytt nasjonalt vegreferansesystem
 
-### NVDB API V3 Les  (20 min)
+### NVDB API V3 Les  (Marvin Bredal Lillehaug, Kantega, 20 min)
 * 
-### NVDB API V3 Skriv (20 min)
+### NVDB API V3 Skriv (Tore Eide Andersen, Kantega, 20 min)
 * 
 
 ### Datafangst - Eksternt API (20 min)
