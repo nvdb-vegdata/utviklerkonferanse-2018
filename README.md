@@ -15,10 +15,18 @@
 ## 1045-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
-### Annonseringer
-### Nytt nasjonalt vegreferansesystem
-### NVDB API V3 Les og Skriv
-### PoC plattform samvirkende ITS
+### Annonseringer (15 min)
+* Ny Vegkart
+* "Nytt" koordinatsystem i NVDB
+* Nytt nasjonalt vegreferansesystem
+
+### NVDB API V3 Les  (20 min)
+* 
+### NVDB API V3 Skriv (20 min)
+* 
+
+### Datafangst - Eksternt API (20 min)
+* Mottak av endringer på eksisterende data
 
 # 1200-1300 Lunsj
 
