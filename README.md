@@ -34,6 +34,7 @@
 
 ## 1300-1500 Trafikkdata
 > Lars Meisingseth, Transportteknologi
+> Pål Thomassen, BEKK
 
 ### Intro til GraphQL
 ###	Våre data 
