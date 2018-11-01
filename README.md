@@ -15,7 +15,7 @@
 ## 1045-1200 Nasjonal Vegdatabank
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
-### Annonseringer (15 min)
+###  Status Åpne Vegdata + Annonseringer (15 min)
 * [Ny Vegkart](https://vegkart-test.kantega.no)
 * API V1 - Utgår
 * Atlas - Ny driftsplattform -> Nye URL'er
