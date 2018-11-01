@@ -19,8 +19,8 @@
 * [Ny Vegkart](https://vegkart-test.kantega.no)
 * API V1 - Utgår
 * Atlas - Ny driftsplattform -> Nye URL'er
-* "Nytt" koordinatsystem i NVDB
-* Nytt nasjonalt vegreferansesystem
+* Ny merkelapp for koordinatsystemet i NVDB - [EPSG:6173](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/tree/master/doc)
+* [Nytt nasjonalt vegreferansesystem](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/20180626%20Reform%20og%20nytt%20vegreferansesystem.pptx)
 
 ### NVDB API V3 Les  (Marvin Bredal Lillehaug, Kantega, 20 min)
 * 
