@@ -16,6 +16,7 @@
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
 ###  Status Åpne Vegdata + Annonseringer (15 min)
+[Presentasjon](https://docs.google.com/presentation/d/1uFgsMe6mi751v7KZP9DjWCg7cN8V2qt8k1UT2DBOvps)
 * [Ny Vegkart](https://vegkart-test.kantega.no)
 * API V1 - Utgår 1.1.2019
 * Atlas - Ny driftsplattform -> Nye URL'er og Open ID Connect (OAuth2)
