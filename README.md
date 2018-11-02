@@ -6,7 +6,7 @@
 * Sted: Clarion Hotel & Congress, Brattøra, Trondheim
 
 
-## 1000-1015 Velkommen
+## 1000-1015 [Velkommen]
 > Marit Collin, Administrerende direktør, Kantega
 
 ## 1015-1045 Data UT - Tilgjengeliggjøring av data fra Statens vegvesen
