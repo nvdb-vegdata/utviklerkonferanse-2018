@@ -24,7 +24,7 @@
 * [Nytt nasjonalt vegreferansesystem](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/20180626%20Reform%20og%20nytt%20vegreferansesystem.pptx)
 
 ### NVDB API V3 Les  (Marvin Bredal Lillehaug, Kantega, 20 min)
-* Hva er nytt i kommende versjon
+* [Hva er nytt i kommende versjon](https://docs.google.com/presentation/d/1eFfqW7dH2ufO4uqPEUYTY4t0kptkjUuSLqZ-sSV1_LI)
 
 ### NVDB API V3 Skriv (Tore Eide Andersen, Kantega, 20 min)
 * Årsregnskap
