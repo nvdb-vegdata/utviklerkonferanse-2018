@@ -38,8 +38,8 @@
 > Pål Thomassen, BEKK
 
 
-###	[Våre data](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Trafikkdata%20i%20SVV.pptx)
-### Hva vi deler nå og i framtida
-### Intro til GraphQL
+*	[Våre data](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Trafikkdata%20i%20SVV.pptx)
+* Hva vi deler nå og i framtida
+* Intro til GraphQL
 
 ## 1500 Vel hjem
