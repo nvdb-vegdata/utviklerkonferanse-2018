@@ -25,7 +25,10 @@
 ### NVDB API V3 Les  (Marvin Bredal Lillehaug, Kantega, 20 min)
 * 
 ### NVDB API V3 Skriv (Tore Eide Andersen, Kantega, 20 min)
-* 
+* Årsregnskap
+* Endringer i produksjon
+* Endringer i kommende versjon
+* Ymse
 
 ### Datafangst - Eksternt API (20 min)
 * Mottak av endringer på eksisterende data
