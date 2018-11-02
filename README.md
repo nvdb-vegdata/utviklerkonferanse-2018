@@ -32,13 +32,14 @@
 
 # 1200-1300 Lunsj
 
-## [1300-1500 Trafikkdata](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Trafikkdata%20i%20SVV.pptx)
+## 1300-1500 Trafikkdata
 > Lars Meisingseth, Transportteknologi
 
 > Pål Thomassen, BEKK
 
-### Intro til GraphQL
-###	Våre data 
+
+###	[Våre data](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Trafikkdata%20i%20SVV.pptx)
 ### Hva vi deler nå og i framtida
+### Intro til GraphQL
 
 ## 1500 Vel hjem
