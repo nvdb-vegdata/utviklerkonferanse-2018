@@ -16,7 +16,7 @@
 > Terje Brasethvik, NVDB & Geodataseksjonen
 
 ###  Status Åpne Vegdata + Annonseringer (15 min)
-[Presentasjon](https://docs.google.com/presentation/d/1uFgsMe6mi751v7KZP9DjWCg7cN8V2qt8k1UT2DBOvps)
+[Presentasjon](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/_Vegdata%20Utviklerdag%20-%20%20Oversikt.pdf)
 * [Ny Vegkart](https://vegkart-test.kantega.no)
 * API V1 - Utgår 1.1.2019
 * Atlas - Ny driftsplattform -> Nye URL'er og Open ID Connect (OAuth2)
@@ -24,9 +24,12 @@
 * [Nytt nasjonalt vegreferansesystem](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/20180626%20Reform%20og%20nytt%20vegreferansesystem.pptx)
 
 ### NVDB API V3 Les  (Marvin Bredal Lillehaug, Kantega, 20 min)
-* [Hva er nytt i kommende versjon](https://docs.google.com/presentation/d/1eFfqW7dH2ufO4uqPEUYTY4t0kptkjUuSLqZ-sSV1_LI)
+* [Hva er nytt i kommende versjon](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Utviklerdagen%202018%20API%20Les%20V3.pdf)
 
 ### NVDB API V3 Skriv (Tore Eide Andersen, Kantega, 20 min)
+
+[Presentasjon](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/NVDB%20API%20Skriv%20-%20quo%20vadis.pptx)
+
 * Årsregnskap
 * Endringer i produksjon
 * Endringer i kommende versjon
@@ -40,11 +43,12 @@
 ## 1300-1500 Trafikkdata
 > Lars Meisingseth, Transportteknologi
 
-> Pål Thomassen, BEKK
-
-
 *	[Våre data](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/Trafikkdata%20i%20SVV.pptx)
 * Hva vi deler nå og i framtida
-* Intro til GraphQL
+
+
+> Pål Thomassen, BEKK
+
+* [Intro til GraphQL](https://github.com/nvdb-vegdata/utviklerkonferanse-2018/blob/master/presentasjoner/GraphQL%20teknologidagene.pdf)
 
 ## 1500 Vel hjem
