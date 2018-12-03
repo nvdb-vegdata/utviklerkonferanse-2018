@@ -42,3 +42,9 @@ Innsynsløsning for NVDB. Start her for rask oversikt over innhold og snarveger 
 
 * https://www.vegvesen.no/nvdb/api/v2
 * http://api.vegdata.no/ 
+
+### API - Eksempelklienter
+
+* JAVA: https://github.com/nvdb-vegdata/nvdb-api-client
+* PYTHON: https://github.com/LtGlahn/nvdbapi-V2
+* PYTHON: https://github.com/Acurus/pnvdb
